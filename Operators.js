@@ -28,7 +28,7 @@ console.log("Assignment is now", assignment);
 
 console.log();
 console.log("Comparison Operators in js");
-let comp1 = 12 comp2 = 7;
+let comp1 = 12, comp2 = 7;
 console.log("comp1 == comp2 is ", comp1 == comp2);
 console.log("comp1 != comp2 is ", comp1 != comp2);
 console.log("comp1 === comp2 is ", comp1 === comp2);
